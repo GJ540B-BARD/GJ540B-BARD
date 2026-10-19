@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <h2>Hey there! I'm GJ504B</h2>
+      <h2>Hey there! I'm BARD</h2>
     </td>
   </tr>
   <tr>

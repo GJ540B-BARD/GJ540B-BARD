@@ -1,8 +1,8 @@
-<!-- Upload planet.svg to this same repo (GJ504B-SOI) so the banner shows. -->
-
 <p align="center">
-  <img src="planet.svg" alt="GJ504B - Web Design Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0b3a99,100:2f7dff&height=260&section=header&text=GJ504B&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Web%20Design%20Developer%20%C2%B7%20Bard%20%C2%B7%2022%20%C2%B7%20they%2Fshe&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="GJ504B - Web Design Developer" />
 </p>
+
+<h1 align="center">🪐</h1>
 
 <p align="center">
   <a href="mailto:suyomhirsteinwarm@gmail.com"><img src="https://img.shields.io/badge/GMAIL-suyomhirsteinwarm@gmail.com-0b3a99?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -18,31 +18,21 @@
 
 ## Hey there! I'm GJ504B 👋
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
 **Web Design Developer** · **Bard** · **22** · **Non-binary & pansexual** · **they/she**
 
 Hi, and welcome to my little corner of the internet. I'm a 22-year-old web design developer and a Systems Engineering student. I use they/she pronouns, I'm non-binary and pansexual, and I'm proud of every part of that. I like being open about who I am, because I believe the internet, and tech especially, is better when people can show up as themselves.
-
-</td>
-</tr>
-</table>
 
 ## 🎭 About me
 
 I think of myself as a **bard**. I love stories, words, music and creativity, and I bring that same energy into everything I build. To me, a website is a story: it has a beginning, a mood, a rhythm, and a way of making the person on the other side feel something. That's why I got into **web design**. I want my pages to look beautiful, feel smooth, and say something real.
 
-I'm the kind of person who gets lost for hours tweaking one animation, one color or one line of text until it feels right. I care a lot about the small details, like spacing, typography, how a button feels when you hover over it, and whether the page works for everyone, on any screen, in any lighting. Dark themes, deep blues and night skies are basically my whole aesthetic, as you can probably tell from the planet above. 🪐
+I'm the kind of person who gets lost for hours tweaking one animation, one color or one line of text until it feels right. I care a lot about the small details, like spacing, typography, how a button feels when you hover over it, and whether the page works for everyone, on any screen, in any lighting. Dark themes, deep blues and night skies are basically my whole aesthetic. 🪐
 
 ## 💻 What I do
 
 I design and build websites that are clean, responsive and fast. I work mostly on the front end, where design and code meet, and I'm always trying to get better at turning a rough idea or a sketch into something people can actually click, scroll and enjoy. I also study Systems Engineering, which keeps me curious about how things work under the hood: logic, structure, problem solving and building things that last.
 
 ## 🌱 What I'm learning
-
-I'm always learning, and I don't mind admitting I'm still growing. Right now I'm focusing on:
 
 - Sharpening my **HTML, CSS and JavaScript** until they feel like second nature
 - Building real projects with **React** and modern front-end tools

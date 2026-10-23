@@ -16,9 +16,7 @@
     <td valign="top" width="52%">
       <p><b>Web Design Developer</b></p>
       <p>
-        Hi, I'm a 22-year-old Information Technology student, and web design is the area where I have
-        worked the most so far. It is where I feel most at home: choosing colors and typography, planning
-        layouts, and turning an idea into a real page that people can open and use.
+        I am an Information Technology student with a strong interest in web design and front-end development. My experience focuses on creating visually engaging and user-friendly websites through thoughtful color selection, typography, structured layouts, and the transformation of creative concepts into functional digital experiences.
       </p>
       <p>
         My other skills are still improving, and I'm okay with that. I'm still learning new languages and
@@ -50,23 +48,17 @@
     <td valign="top" width="50%">
       <b>What I do</b>
       <p>
-        I design and build websites, focusing on clean layouts, strong visual identity and a smooth
-        experience for every visitor. I care about how a page looks, but also about how it works: how fast
-        it loads, how easy it is to use, and how well it holds up when real people start clicking around.
+       I specialize in designing and developing modern, user-centered websites with a strong visual identity, clean layouts, and seamless functionality. My approach combines thoughtful design with technical performance, ensuring every website is fast, intuitive, responsive, and optimized to deliver an exceptional user experience across all devices.
       </p>
       <p>
-        Studying Information Technology shapes the way I build. I like to think about a website as a whole
-        system, with the design, the code, the data and the users all connected, instead of a pile of
-        separate pieces. That mindset helps me plan structure before I write code, break big problems into
-        small parts, and keep my projects organized and easy to improve over time.
+       My background in Information Technology has shaped my approach to web development, allowing me to understand how design, programming, data, and user interaction work together as an integrated system. I apply a structured and analytical mindset to planning website architecture, solving complex problems, and maintaining organized, scalable, and maintainable code that supports continuous improvement.
       </p>
       <p>
-        My goal is to combine creative design with solid engineering, so that everything I make looks great
-        and is built to last.
+        My goal is to combine creative design with clean code and efficient programming practices, ensuring that every project I develop is visually appealing, functionally reliable, and built for long-term maintainability.
       </p>
     </td>
     <td valign="top" width="50%">
-      <b>Where design meets engineering</b>
+      <b>Designing with Purpose, Building with Code</b>
       <p>
         <b>Design:</b> layouts, color, typography and a consistent visual identity for each project.
       </p>

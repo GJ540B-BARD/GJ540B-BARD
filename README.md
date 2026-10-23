@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/badge-bard.svg" alt="BARD" height="24">
   <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/badge-age.svg" alt="AGE 22" height="24">
   <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/badge-nb.svg" alt="NON-BINARY" height="24">
   <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/badge-pan.svg" alt="PANSEXUAL" height="24">
@@ -14,8 +13,6 @@
 
 <table width="100%">
   <tr>
-    <td colspan="2">
-      <h2>Hey there! I'm BARD</h2>
     </td>
   </tr>
   <tr>

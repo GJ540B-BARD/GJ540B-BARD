@@ -13,9 +13,6 @@
 
 <table width="100%">
   <tr>
-    </td>
-  </tr>
-  <tr>
     <td valign="top" width="52%">
       <p><b>Web Design Developer</b></p>
       <p>
@@ -37,11 +34,10 @@
       </p>
     </td>
     <td align="center" valign="middle" width="48%">
-      <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/uranus.gif" alt="Rotating Uranus with rings and moons" width="100%">
+      <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/uranus.gif" alt="Rotating Uranus with rings and moons" width="100%">
     </td>
   </tr>
 </table>
-
 <br>
 
 <table width="100%">

@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/badge-age.svg" alt="AGE 22" height="24">
   <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/badge-nb.svg" alt="NON-BINARY" height="24">
-  <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/badge-pan.svg" alt="PANSEXUAL" height="24">
+  <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/badge-pan.svg" alt="LESBIAN" height="24">
   <img src="https://raw.githubusercontent.com/GJ540B-BARD/GJ540B-BARD/main/assets/badge-pronouns.svg" alt="THEY/SHE" height="24">
 </div>
 

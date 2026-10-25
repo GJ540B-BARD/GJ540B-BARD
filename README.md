@@ -54,7 +54,7 @@
        My background in Information Technology has shaped my approach to web development, allowing me to understand how design, programming, data, and user interaction work together as an integrated system. I apply a structured and analytical mindset to planning website architecture, solving complex problems, and maintaining organized, scalable, and maintainable code that supports continuous improvement.
       </p>
       <p>
-        My goal is to combine creative design with clean code and efficient programming practices, ensuring that every project I develop is visually appealing, functionally reliable, and built for long-term maintainability.
+        My goal is to combine creative design with clean code and efficient programming practices, ensuring that every project I develop is visually appealing, functionally reliable, and           built for long-term maintainability.
       </p>
     </td>
     <td valign="top" width="50%">
